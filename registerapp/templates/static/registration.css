@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+}
+
+.million-dots-log{
+    margin:auto;
+    
+
+    width: 200px;
+    height: auto;
+
+}
+.form-control{
+    background-color: rgba(219, 229, 229, 0.195);
+    border: 1px solid;
+}
+
+.form-content{
+    display:grid;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    margin-top:10px;
+    color:rgb(129, 135, 139)
+}
+.form-label{
+    color:rgba(255, 255, 255, 0.815);
+    
+
+}
+
+.reg-button{
+    display:grid;
+    align-items: center;
+    justify-content: center;
+    
+}
+.btn-link{
+    margin-bottom: 10px;
+
+}
+.text1{
+    text-align: center;
+}
